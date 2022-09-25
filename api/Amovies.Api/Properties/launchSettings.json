@@ -4,17 +4,17 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:21503",
-      "sslPort": 44331
+      "applicationUrl": "http://localhost:13339",
+      "sslPort": 44318
     }
   },
   "profiles": {
-    "api": {
+    "Amovies.Api": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "https://localhost:7095;http://localhost:5095",
+      "applicationUrl": "https://localhost:7057;http://localhost:5057",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

@@ -1,4 +1,4 @@
-namespace api
+namespace Amovies.Api
 {
     public class WeatherForecast
     {
